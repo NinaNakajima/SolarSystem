@@ -5,4 +5,4 @@ Solar system model. The planet is revolving around the sun. The camera rotates a
 
 ***DEMO:***
 
-![Demo](https://image-url.gif)
+![Demo](https://raw.github.com/wiki/NinaNakajima/SolarSystem/images/)
