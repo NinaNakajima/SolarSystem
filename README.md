@@ -5,4 +5,4 @@ Solar system model. The planet is revolving around the sun. The camera rotates a
 
 ***DEMO:***
 
-![demo](https://user-images.githubusercontent.com/99044060/155844421-c8efc56a-e0c6-4831-a5ab-e4c1318e837b.png)
+![demo](https://user-images.githubusercontent.com/99044060/155865819-0f358bd3-3532-4c46-acd7-cd327d9d96bf.gif)
